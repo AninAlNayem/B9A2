@@ -1,0 +1,44 @@
+@media screen and (max-width:600px) {
+    .total-nav{
+        flex-direction: column;
+        margin-left: 50px;
+    }
+    .nav-right {
+        flex-direction: column;
+        margin-left: 50px;
+        gap: 20px;
+    }
+    
+    .container {
+        flex-direction: column;
+        margin-left: 5px;
+        /* float:left; */
+        /* width: 100%; */
+    }
+    .banner-section{
+        flex-direction: column;
+        margin-left: 5px;
+    }
+    .bckground{
+        flex-direction: column;
+        margin-left: 5px;
+    }
+    .section-heading{
+        flex-direction: column;
+        margin-left: 5px;
+    }
+    .destin{
+        flex-direction: column;
+        margin-left: 5px;
+        
+    }
+    .right-img{
+        flex-direction: column;
+        margin-left: 5px;
+        float: left;
+        gap:20px;
+    }
+    .footer{
+        margin-left: 5px;
+    }
+}
